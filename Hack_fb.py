@@ -5,7 +5,7 @@ print '\x1b[1;32mSilahkan Login Script'
 import os, sys
 
 def wa():
-    os.system('xdg-open https://www.instagram.com/hyputganz')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=+6283125187277&text=Assalamualaikum') 
 
 
 def restart():
