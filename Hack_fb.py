@@ -1,11 +1,11 @@
-#decompiled by FIQI
+#decompiled by 4RdiBotZ 
 import os, sys
-print '\x1b[1;32m*Masukan "User: Fiqi" dan "Password: duapuluhtujuh"'
+print '\x1b[1;32m*Masukan "User: 4RdiBotZ" dan "Password: duapuluhtujuh"'
 print '\x1b[1;32mSilahkan Login Script'
 import os, sys
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=+6283125187277&text=Assalamualaikum') 
+    os.system('xdg-open https://chat.whatsapp.com/EXQvCWjeZFg4xjq3N0S7Av') 
 
 
 def restart():
@@ -16,7 +16,7 @@ def restart():
 user = raw_input('User: ')
 import getpass
 sandi = raw_input('Password: ')
-if sandi == 'duapuluhtujuh' and user == 'Fiqi':
+if sandi == 'duapuluhtujuh' and user == '4RdiBotZ':
     print 'Anda Telah Berhasil Login'
     sys.exit
 else:
